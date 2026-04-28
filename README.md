@@ -17,15 +17,3 @@ This project simulates a modern SOC architecture with layered intelligence:
 
 It demonstrates how **traditional cybersecurity + GenAI** can be integrated into a unified detection-to-response system.
 
----
-
-## 📥 Input
-
-- Raw network/security logs (user input or dataset)
-- Supported datasets:
-  - CICIDS2017
-  - UNSW-NB15
-
----
-
-## 🏗️ System Architecture
