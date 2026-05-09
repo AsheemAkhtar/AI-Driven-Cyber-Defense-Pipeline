@@ -1,5 +1,5 @@
 # AI-Driven-Cyber-Defense-Pipeline 
-# LIVE DEMO: https://ai-4ae26d3fd8f7496fbc53fc7abf830ee9.ecs.us-east-1.on.aws/
+# LIVE DEMO: https://d3uw0svizo2f8t.cloudfront.net
 
 An end-to-end **Security Operations Center (SOC) pipeline** that combines **Machine Learning, Rule-Based Detection, Threat Intelligence, Large Language Models (LLMs), RAG, and SOAR automation** to detect, analyze, and respond to cybersecurity threats in real time.
 
